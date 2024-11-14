@@ -1,9 +1,9 @@
 # Requirements Specification: [Ship Havoc!]
 
-## Game Name: [Ship Havoc!]
-## Team Members: [Joseph Danik & Luca Beam]
-## Client: [Teacher Kennedy]
-### Date: [11/14/24]
+### Game Name: [Ship Havoc!]
+### Team Members: [Joseph Danik & Luca Beam]
+### Client: [Teacher Kennedy]
+#### Date: [11/14/24]
 
 ## Game Overview
 ``` Genre: Arcade-style, action, rogue like
@@ -24,21 +24,24 @@
 • Performance: 60fps, load time should be quick/instant, Singleplayer
 • Cross-Platform Compatibility: The game will mainly be on PC, maybe more devices later
 ```
-
 ## Design Requirements
-	•	Graphics and Visuals:
-	•	Style of the game graphics (e.g., retro, pixelated, smooth animations)
-	•	Audio:
-	•	What kind of sound effects or music will be used?
+```
+• Graphics and Visuals: (Undecided, mostly retro/maybe pixelated)
+• Style of the game graphics (e.g., retro, pixelated, smooth animations)
+• Audio: (Undecided, Probably 8bit)
+• What kind of sound effects or music will be used?
+```
 ## Data Requirements
-	•	What data needs to be saved or tracked? (E.g., high scores, player progress, achievements)
-	•	How will the data be stored? (e.g., in-game memory, online storage)
-
+```
+• What data needs to be saved or tracked? (E.g., high scores, player progress, achievements)
+• How will the data be stored? (e.g., in-game memory, online storage)
+```
 
 ## Collaboration with Client
-	•	How will you gather feedback from the client in each sprint? (E.g., through surveys, playtesting, direct meetings)
-	•	How will you ensure the game is developing according to the client's needs?
-
+```
+• How will you gather feedback from the client in each sprint? (E.g., through surveys, playtesting, direct meetings)
+• How will you ensure the game is developing according to the client's needs?
+```
 
 
 
