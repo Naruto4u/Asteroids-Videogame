@@ -7,24 +7,23 @@
 
 ## Game Overview
 ``` Genre: Arcade-style, action, rogue like
-- Theme: Space, retro visuals
-- Gameplay: Pilot a upgradable ship through asteroid fields with enemies (With asteroids)
-* Objective: Survive, get kills (points), collect coins
+• Theme: Space, retro visuals
+• Gameplay: Pilot a upgradable ship through asteroid fields with enemies (With asteroids)
+• Objective: Survive, get kills (points), collect coins
 • Progression: Increasing difficulty with new challenges and enemies 
 ```
 
 ## Functional Requirements
-	•	Core Features: Save progress, Track scores (included w/ save progress), Wave progression
-	•	User Interactions: Mouse movement and presses, Keyboard buttons (Upgradability, Space: Overclock)
-
+```
+• Core Features: Save progress, Track scores (included w/ save progress), Wave progression
+• User Interactions: Mouse movement and presses, Keyboard buttons (Upgradability, Space: Overclock)
+```
 ## Non-Functional Requirements
-	•	Usability:
-	•	How should the game be designed for the player? (E.g., easy to understand, intuitive controls)
-	•	Performance:
-	•	How should the game perform? (E.g., frame rate, load time, number of players supported)
-	•	Cross-Platform Compatibility:
-	•	Does the game need to work on multiple devices or platforms? (E.g., PC, mobile, tablet)
-
+```
+• Usability: Controls will be easy to master, but not intuitive.
+• Performance: 60fps, load time should be quick/instant, Singleplayer
+• Cross-Platform Compatibility: The game will mainly be on PC, maybe more devices later
+```
 
 ## Design Requirements
 	•	Graphics and Visuals:
