@@ -6,18 +6,16 @@
 ### Date: [11/14/24]
 
 ## Game Overview
-	•	Brief description of the game (genre, style, objective).
-	•	What is the main goal of the game? (E.g., score points, reach a certain level, etc.)
-
-
+``` Genre: Arcade-style, action, rogue like
+- Theme: Space, retro visuals
+- Gameplay: Pilot a upgradable ship through asteroid fields with enemies (With asteroids)
+* Objective: Survive, get kills (points), collect coins
+• Progression: Increasing difficulty with new challenges and enemies 
+```
 
 ## Functional Requirements
-	•	Core Features:
-	•	What must the game do? (E.g., login, save progress, track scores, level progression)
-	•	User Interactions:
-	•	How does the player interact with the game? (E.g., button presses, touch controls, mouse movements)
-
-
+	•	Core Features: Save progress, Track scores (included w/ save progress), Wave progression
+	•	User Interactions: Mouse movement and presses, Keyboard buttons (Upgradability, Space: Overclock)
 
 ## Non-Functional Requirements
 	•	Usability:

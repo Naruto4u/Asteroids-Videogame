@@ -12,11 +12,15 @@ This could mean changing the game's  layout, number of players, or even how thin
 ## 1. App Idea
 Describe your game idea in a few sentences. What is the overall concept of your game?
 
-Ship Havoc is a topdown shooter remix of the game asteroids instead of only 
+Ship Havoc is a topdown shooter remix of the game asteroids instead of only shooting asteroids with the goal of getting as many points as possible 
+your ship is getting attacked in the middle of an asteroid belt enemies rarely drop gold forcing you to choose between attacking the enemys 
+pursuing you or harvesting gold by breaking asteroids to buy upgrades. Space can be used to overclock (aka a speed boost)
 
 ## 2. Target Audience
 Who is this game designed for? Be specific—age group, gaming experience, and interests.
-Example: This game is aimed at teens (ages 12-18) who enjoy strategy and puzzle games. It will appeal to players who like problem-solving and adventure-based gameplay.
+
+This game is mainly designed for 10+ however there are no issues with playing under this age it shouldn't require much gaming experience and
+this games targets those who like topdown shooters and rouge likes
 
 ## 3. Goals and Vision
 What are the client’s goals for the game? What do they want to achieve with this project?
