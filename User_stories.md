@@ -1,5 +1,35 @@
 # User Stories and Acceptance Criterion Frame
 
+---
+#### Title: Game Start/Opening 
+
+
+As a ``` player ``` ,
+	
+```I want to```open the game and see a clear start screen with a load game function.
+
+```So that```I can start playing the game, or continue from where I left off without trouble.
+
+#### Acceptance Criteria:
+
+	• That the player is in their previous game, or a new game, and is actively then playing said game.	• The player must be able to load a save file, or start a new game.
+	• If there is no save file, the player will see an error message.
+---
+
+
+Title: Game Tutorial, understanding mechanics.
+As a ```Player```,
+
+```I want to```have a tutorial that can be skipped, before I start the game for the first time.
+
+```So that```I can understand how I am meant to play the game, and not be confused on game mechanics.
+
+Acceptance Criteria (used to build the Definition of Done):
+	•	What must happen for the user story to be complete?
+	•	(e.g., “The player must be able to log in with their username and password.”)
+	•	(e.g., “If login fails, the player sees an error message.”)
+
+
 Title: Each user story gets a brief name 
 As a [type of user],
 	•	Who is the user or role you’re focusing on? (e.g., player, admin, guest)
@@ -14,6 +44,35 @@ Acceptance Criteria (used to build the Definition of Done):
 	•	(e.g., “The player must be able to log in with their username and password.”)
 	•	(e.g., “If login fails, the player sees an error message.”)
 
+
+Title: Each user story gets a brief name 
+As a [type of user],
+	•	Who is the user or role you’re focusing on? (e.g., player, admin, guest)
+I want to [do something],
+	•	What is the user trying to do or accomplish? (e.g., “save my game progress,” “choose a character”)
+So that [I can achieve a goal or benefit].
+	•	Why is this important for the user? What benefit or outcome will the user get from this feature? (e.g., “so I can continue my game later,” “so I can play as my favorite character”)
+
+
+Acceptance Criteria (used to build the Definition of Done):
+	•	What must happen for the user story to be complete?
+	•	(e.g., “The player must be able to log in with their username and password.”)
+	•	(e.g., “If login fails, the player sees an error message.”)
+
+
+Title: Each user story gets a brief name 
+As a [type of user],
+	•	Who is the user or role you’re focusing on? (e.g., player, admin, guest)
+I want to [do something],
+	•	What is the user trying to do or accomplish? (e.g., “save my game progress,” “choose a character”)
+So that [I can achieve a goal or benefit].
+	•	Why is this important for the user? What benefit or outcome will the user get from this feature? (e.g., “so I can continue my game later,” “so I can play as my favorite character”)
+
+
+Acceptance Criteria (used to build the Definition of Done):
+	•	What must happen for the user story to be complete?
+	•	(e.g., “The player must be able to log in with their username and password.”)
+	•	(e.g., “If login fails, the player sees an error message.”)
 
 
 Instructions for Writing User Stories:
