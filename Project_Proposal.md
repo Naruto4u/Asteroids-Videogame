@@ -47,5 +47,5 @@ List any specific technical needs for your game, like the platform it will run o
 Example: The game will be developed for PC and should run smoothly at 60 frames per second. It will require keyboard and mouse controls, and there should be an option to save progress at the end of each level.
 This proposal will help guide your team as you design and develop the game. Make sure to update it as you get more ideas or if the client has additional requests.
 ````
-This game will run on pc and requires a keyboard and mouse for its controls and really shouldn't need much for performance you are able to save at the end of every round but because it is a rouge like if you lose you will have to restart
+This game will run on pc, tablet, and phone for its controls, two hands are required to play this game. This game shouldn't need good hardware. You will be able to save at the end of every round but because it is a rouge like if you lose you will have to restart
 ````
